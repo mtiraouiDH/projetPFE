@@ -1,0 +1,19 @@
+{
+		"connect" :{
+			"ServerUrl":"http://192.168.1.191:8080/magicsign-v2/",
+			"ServerKey":"123456",
+			"client_id":"6AOvRUvnuUWGpqdIgu8yczdmoPG3AyoSci4y7UrR",
+			"client_secret":"cYhDTTvcdeb0sgtTi8TNDpXI295kz3ecarLfTiSbmp5KXGVTOzaqDLjID7RgA8SGGIC7HGDDsKkU5HweyWnaIeIYJGKYmewnbgVaqpJuW1ZdwLCnyXtYGvuG6ocsApHDQdfPfGME1GJVUYoVf4ACyaRmeUrVnJoVphNgDsIeUVQJGg8i4iOWRZkh2WnCWAwXzuBam5UnmjGtIrGVyAccJUOKr2O0WqYbXhyiZxfrraj1bpJOIyDk8y6DdSGkI9",
+			"Library":"downloads"
+		},
+		"advanced" :{
+			"UerId":"",
+			"Password":"",
+			"Domaine":""
+		},
+		"DisplayConfig" :{
+			"DisplayId":"",
+			"StartScreen":""
+		}
+
+}	
